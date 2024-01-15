@@ -1,0 +1,1 @@
+To view the site, you first need to download the zip file, then extract the folder from it. Open this folder using some kind of code editor and enter “yarn” in the terminal, this way you will download the dependency. Next, enter “yarn dev” into the term and you’re done.
